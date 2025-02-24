@@ -992,6 +992,7 @@ figcaption {
 .home-content-wrap {
   margin-top: 80px;
   margin-bottom: 120px;
+  padding: 0px 20px;
 }
 
 .home-section-wrap {
@@ -1532,6 +1533,10 @@ figcaption {
 
   .team-pic.jorge-viramontes {
     width: 100%;
+  }
+
+  .home-content-wrap {
+    padding: 0px;
   }
 }
 
